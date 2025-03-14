@@ -45,5 +45,5 @@ Were I to suggest improvements:
 - Develop a dedicated section for users who frequently engage in both activities, acknowledging this common use case with appropriate shortcuts and persistent information.
 - Introduce contextual prompts that suggest consignment opportunities when a purchase is being made, and vice versa, to create a more cohesive experience.
 
-A platform serving the luxury market should demonstrate the same attention to detail and seamless experience that one expects from a fine establishment. TheRealReal's current implementation, while showing promise in isolated areas, ultimately fails to provide the integrated experience befitting its clientele. Regrettably, my overall impression of TheRealReal is, regrettably, diminished. How rude.
+A platform serving the luxury market should demonstrate the same attention to detail and seamless experience that one expects from a fine establishment. TheRealReal's current implementation, while showing promise in isolated areas, ultimately fails to provide the integrated experience befitting its clientele. Ultimately, my overall impression of TheRealReal is, regrettably, diminished. How rude.
 
