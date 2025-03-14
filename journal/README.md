@@ -7,7 +7,7 @@
 ## Prelude
 
 Over the years, I have found myself drawn to TheRealReal—a luxury consignment marketplace that promises both the acquisition of exquisite pieces and the graceful retirement of one's gently-used finery. My objective, a few days ago, was straightforward: to purchase a particular Brunello Cucinelli cashmere peacoat while simultaneously arranging for several of my own garments to be consigned through their service.
-What should have been a refined experience befitting the luxury market segment instead illustrated to me that even the most sophisticated platforms can fail in providing **usability**.
+What should have been a refined experience befitting the luxury market segment instead illustrated to me that even the most sophisticated platforms can fail in providing **usability**—the measurement of how easily a user can accomplish their goals when using a service.
 
 ## Act I: The Hunt
 
