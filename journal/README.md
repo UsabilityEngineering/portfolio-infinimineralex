@@ -7,7 +7,7 @@
 ## Prelude
 
 Over the years, I have found myself drawn to TheRealReal—a luxury consignment marketplace that promises both the acquisition of exquisite pieces and the graceful retirement of one's gently-used finery. My objective, a few days ago, was straightforward: to purchase a particular Brunello Cucinelli cashmere peacoat while simultaneously arranging for several of my own garments to be consigned through their service.
-What should have been a refined experience befitting the luxury market segment instead illustrated to me that even the most sophisticated platforms can fail in providing **usability**—the measurement of how easily a user can accomplish their goals when using a service.
+Unfortunately, matters would grow complicated, and I would end up finding even the most sophisticated platforms can fail in providing **usability**—the measurement of how easily a user can accomplish their goals when using a service.
 
 ## Act I: The Hunt
 
@@ -34,7 +34,7 @@ The necessity of this human intervention significantly diminished my **satisfact
 ## Denouement
 
 TheRealReal's interface suffers from a failure of **contextual inquiry**—the process of understanding users in the context of their actual goals. For a luxury consignment platform, the common scenario of a customer both buying and selling simultaneously appears to have been overlooked entirely in the design process.
-The strengths of the platform—beautiful photography, detailed product information, and straightforward purchasing—are undermined by this fundamental disconnect in the user journey. The platform demonstrates a concerning lack of **integration** between its core functions, forcing unnecessary context-switching that diminishes the overall experience.
+The strengths of the platform—beautiful photography, detailed product information, and straightforward purchasing—are undermined by this fundamental disconnect in the user journey. The platform demonstrates a concerning lack of **integration** between its core functions, forcing unnecessary context-switching that confuddles the overall experience.
 
 ## Recommendations
 
@@ -45,5 +45,5 @@ Were I to suggest improvements:
 - Develop a dedicated section for users who frequently engage in both activities, acknowledging this common use case with appropriate shortcuts and persistent information.
 - Introduce contextual prompts that suggest consignment opportunities when a purchase is being made, and vice versa, to create a more cohesive experience.
 
-A platform serving the luxury market should demonstrate the same attention to detail and seamless experience that one expects from a fine establishment. TheRealReal's current implementation, while showing promise in isolated areas, ultimately fails to provide the integrated experience befitting its clientele. Unfortunately, my overall impression of TheRealReal is, regrettably, diminished. How rude.
+A platform serving the luxury market should demonstrate the same attention to detail and seamless experience that one expects from a fine establishment. TheRealReal's current implementation, while showing promise in isolated areas, ultimately fails to provide the integrated experience befitting its clientele. Regrettably, my overall impression of TheRealReal is, regrettably, diminished. How rude.
 
