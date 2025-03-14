@@ -34,7 +34,7 @@ The strengths of the platform—beautiful photography, detailed product informat
 
 Were I to suggest improvements:
 
-= Implement a unified transaction flow that allows users to both purchase and consign in a single session, perhaps with an "Add to My Consignment" option alongside the traditional "Add to Cart" button.
+- Implement a unified transaction flow that allows users to both purchase and consign in a single session, perhaps with an "Add to My Consignment" option alongside the traditional "Add to Cart" button.
 - Create **affordances**—visual cues that indicate possible actions—that suggest the relationship between buying and selling within the interface.
 - Develop a dedicated section for users who frequently engage in both activities, acknowledging this common use case with appropriate shortcuts and persistent information.
 - Introduce contextual prompts that suggest consignment opportunities when a purchase is being made, and vice versa, to create a more cohesive experience.
