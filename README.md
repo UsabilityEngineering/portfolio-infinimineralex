@@ -13,3 +13,4 @@ Coming soon.
 ## UX Journal
 
 [Expressions in Functional Beauty](journal/)
+[Entry 1](journal/entry01.md)
