@@ -2,7 +2,7 @@
 
 ### By Alexander Haga | March 13, 2025
 
-{image will go here}
+![The Peacoat in Question](image_2025-03-13_170502488.png)
 
 ## Prelude
 
