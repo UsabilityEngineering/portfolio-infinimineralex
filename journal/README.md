@@ -29,7 +29,7 @@ The consignment process existed in what appeared to be an entirely separate univ
 
 After several increasingly frustrated attempts to navigate this bifurcated experience, I was reduced to that most primitive of customer service interactions—the phone call. My personal customer support attendant, while courteous, confirmed what the interface had already made painfully clear: the system was not designed to accommodate the concurrent buying and selling that would seem fundamental to a consignment business model.
 The attendant manually arranged both transactions, essentially serving as a human interface to bypass the digital **usability barriers**—obstacles in a system that prevent users from efficiently achieving their goals. 
-The necessity of this human intervention significantly diminished my **satisfaction**—the comfort and positive attitudes generated during the use of the system. What should have been a seamless digital experience instead became a fragmented journey requiring additional time and effort, precisely the opposite of what one expects from a luxury service promising convenience.
+The necessity of this human intervention significantly diminished my **satisfaction**—the comfort and positive attitudes generated during the use of the system. What should have been a seamless digital experience was instead a journey requiring additional time and effort, precisely the opposite of what one expects from a luxury service promising convenience.
 
 ## Denouement
 
@@ -45,5 +45,5 @@ Were I to suggest improvements:
 - Develop a dedicated section for users who frequently engage in both activities, acknowledging this common use case with appropriate shortcuts and persistent information.
 - Introduce contextual prompts that suggest consignment opportunities when a purchase is being made, and vice versa, to create a more cohesive experience.
 
-A platform serving the luxury market should demonstrate the same attention to detail and seamless experience that one expects from a fine establishment. TheRealReal's current implementation, while showing promise in isolated areas, ultimately fails to provide the integrated experience befitting its clientele. Unfortunately, my overall impression of TheRealReal is, regrettably, diminished.
+A platform serving the luxury market should demonstrate the same attention to detail and seamless experience that one expects from a fine establishment. TheRealReal's current implementation, while showing promise in isolated areas, ultimately fails to provide the integrated experience befitting its clientele. Unfortunately, my overall impression of TheRealReal is, regrettably, diminished. How rude.
 
