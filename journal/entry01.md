@@ -57,8 +57,8 @@ The strengths of the platform (beautiful photography, detailed product informati
 Were I to suggest improvements:
 
 1. Implement a unified transaction flow that allows users to both purchase and consign in a single session. This could include an "Add to My Consignment" button alongside the traditional "Add to Cart" button on product pages.
-2. Create affordances, visual cues that indicate possible actions, that suggest the relationship between buying and selling within the interface. For example, a persistent sidebar during checkout could ask, "Would you like to consign items with this order?"
-3. Develop a dedicated section for users who frequently engage in both activities. This could be a "My TheRealReal" dashboard showing both purchase history and consignment status in a single view.
+2. Create **affordances**, visual cues that indicate possible actions, that suggest the relationship between buying and selling within the interface. For example, a persistent sidebar during checkout could ask, "Would you like to consign items with this order?"
+3. Develop a dedicated section for users who frequently engage in both activities. This could be in the "My TheRealReal" dashboard showing both purchase history and consignment status in a single view.
 4. Introduce contextual prompts that suggest consignment opportunities when a purchase is being made, and vice versa, to create a more cohesive experience. A simple notification saying, "Save on this purchase by consigning your items today" would create valuable connection points.
 
 A platform serving the luxury market should demonstrate the same attention to detail and seamless experience that one expects from a fine establishment. TheRealReal's current implementation shows promise in isolated areas but ultimately fails to provide the integrated experience befitting its clientele.
