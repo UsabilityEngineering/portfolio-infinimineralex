@@ -27,7 +27,7 @@ The product page presented a clean **information architecture**, which describes
 
 ![The Shopping Cart](image_2025-03-13_170921350.png)
 
-It was here that my experience descended into poor **task flow**, the sequence of steps required to complete a goal. While my shopping cart now contained the coveted peacoat (displayed with a thumbnail image, price, and quantity selector), there appeared to be no clear pathway to simultaneously arrange for my own items to be consigned.
+It was here that my experience descended into poor **task flow**, the sequence of steps required to complete a goal. While my shopping cart now contained the coveted peacoat (displayed with a thumbnail image and price), there appeared to be no clear pathway to simultaneously arrange for my own items to be consigned.
 The top navigation bar offered a separate "Sell" section, which I explored by clicking. Here, my **mental model**, my understanding of how the system works based on previous experiences and expectations, suggested that I should be able to initiate both transactions in parallel. This reasonable expectation was met with disappointment.
 
 ![Consignment Page](https://github.com/user-attachments/assets/d679d562-abeb-462a-bedf-8389ce744b2c)
