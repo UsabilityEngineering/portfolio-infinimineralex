@@ -7,6 +7,7 @@
 ## Prelude
 
 Over the years, I have found myself drawn to TheRealReal, a luxury consignment marketplace that promises both the acquisition of exquisite pieces and the graceful retirement of one's gently-used finery. My objective, a few days ago, was straightforward: to purchase a particular Brunello Cucinelli cashmere peacoat while simultaneously arranging for several of my own garments to be consigned through their service.
+
 Unfortunately, matters quickly grew complicated. I discovered that even sophisticated platforms can fail in providing **usability**, which measures how easily a user can accomplish their goals when using a service.
 
 ## Act I: The Hunt
@@ -32,7 +33,7 @@ The top navigation bar offered a separate "Sell" section, which I explored by cl
 ![Consignment Page](https://github.com/user-attachments/assets/d679d562-abeb-462a-bedf-8389ce744b2c)
 
 
-The consignment process existed in what appeared to be an entirely separate universe from the purchasing flow. The "Sell" section presented three options: "VIRTUAL APPOINTMENT," "SHIP TO US," or "IN-STORE APPOINTMENT OR DROP-OFF." None of these options referenced my current shopping cart or provided a way to connect these related activities. I attempted to navigate back and forth between my cart and the consignment page, looking for a connection point. The header remained somewhat consistent, but the content areas were completely siloed. No option to combine these related activities was presented, despite the obvious symbiosis between buying and selling on a consignment platform.
+The consignment process existed in what appeared to be an entirely separate universe from the purchasing flow. The "Sell" section presented three options: "VIRTUAL APPOINTMENT," "SHIP TO US," or "IN-STORE APPOINTMENT OR DROP-OFF." None of these options referenced my current shopping cart or provided a way to connect these related activities. I attempted to navigate back and forth between my cart and the consignment page, looking for a connection point. The header remained somewhat consistent, but the content areas were completely siloed. Despite the obvious symbiosis between buying and selling on a consignment platform, no option to combine these related activities was presented.
 
 This disconnect severely impacted the **effectiveness** of the platform, the degree to which a system enables users to achieve their specific goals completely and accurately. Despite my technical proficiency, I was unable to complete what should have been a basic combined transaction. This represents a significant failure in **user-centered design**, which prioritizes creating systems that align with users' goals and natural workflows rather than forcing users to adapt to arbitrary system limitations.
 
@@ -45,7 +46,7 @@ After several increasingly frustrated attempts to navigate this bifurcated exper
 
 The attendant manually arranged both transactions. She took my payment information for the peacoat purchase first, then created a separate consignment record with my seller information. She essentially served as a human interface to bypass the digital **usability barriers**, obstacles in a system that prevent users from efficiently achieving their goals.
 
-The necessity of this human intervention significantly diminished my **satisfaction**, the comfort and positive attitudes generated during the use of the system. What should have been a seamless digital experience instead became a journey requiring additional time and effort. This is precisely the opposite of what one expects from a luxury service promising convenience.
+The necessity of this human intervention significantly diminished my **satisfaction**, the comfort and positive attitudes generated during the use of the system. This is precisely the opposite of what one expects from a luxury service promising convenience.
 
 ## Denouement
 
