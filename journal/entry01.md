@@ -42,7 +42,7 @@ This disconnect severely impacted the **effectiveness** of the platform, the deg
 ![TRR's Number](https://github.com/user-attachments/assets/111b8466-11df-4c5a-93a8-7ecede8033f4)
 
 
-After several increasingly frustrated attempts to navigate this bifurcated experience, I resorted to that most primitive of customer service interactions: the phone call. Scrolling down to see a "QUESTIONS?" section on the page, I dutifully texted the number provided, which was forwarded to a call; it was answered after a three-minute wait time. My personal customer support attendant, while courteous, confirmed what the interface had already made painfully clear: the system was not designed to accommodate concurrent buying and selling. "I can definitely help you with both transactions," she said, "but our website doesn't currently support doing them together."
+After several increasingly frustrated attempts to navigate this bifurcated experience, I resorted to that most primitive of customer service interactions: the phone call. Scrolling down to see a "QUESTIONS?" section on the page, I dutifully texted the number provided, which was forwarded to a call; it was answered after a three-minute wait time. My personal customer support attendant, while courteous, confirmed what the interface had already made painfully clear: the system was not designed to accommodate concurrent buying and selling.
 
 The attendant manually arranged both transactions. She took my payment information for the peacoat purchase first, then created a separate consignment record with my seller information. She essentially served as a human interface to bypass the digital **usability barriers**, obstacles in a system that prevent users from efficiently achieving their goals.
 
@@ -51,6 +51,7 @@ The necessity of this human intervention significantly diminished my **satisfact
 ## Denouement
 
 TheRealReal's interface suffers from a failure of **contextual inquiry**, the process of understanding users in the context of their actual goals. For a luxury consignment platform, the common scenario of a customer both buying and selling simultaneously appears to have been overlooked entirely in the design process.
+
 The strengths of the platform (beautiful photography, detailed product information, and straightforward purchasing) are undermined by this fundamental disconnect in the user journey. The platform demonstrates a concerning lack of integration between its core functions, forcing unnecessary context-switching that confuses the overall experience.
 
 ## Recommendations
