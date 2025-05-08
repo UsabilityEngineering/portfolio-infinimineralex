@@ -14,13 +14,13 @@ Unfortunately, matters quickly grew complicated. I discovered that even sophisti
 ![The Goods on Offer](https://github.com/user-attachments/assets/9f9a177b-4565-4df6-940d-2da4999f2a3c)
 
 
-I had purchased from TheRealReal before and noted their commendable strengths. Their search functionality provided robust filtering options. I used the category dropdown menu to select "Men's" and the subcategory "Outerwear." The left sidebar filters allowed me to specifically select "Brunello Cucinelli" from the designer list and "XL" from the size options.
+I had purchased from TheRealReal before and noted their commendable strengths. Their search functionality provided robust filtering options. I used the category dropdown menu to select "Men's" and the subcategory "Outerwear." The left sidebar filters allowed me to specifically select "Brunello Cucinelli" from the designer list and "L" from the size options.
 The product photography was exemplary. The main product carousel displayed the peacoat from multiple angles. I particularly appreciated the zoom feature that revealed detailed shots highlighting the craftsmanship of the cashmere and stitching.
 
 ![Details Section](https://github.com/user-attachments/assets/ae587ec1-53c5-45c3-88e1-ea032f6d5321)
 
 
-The product page presented a clean **information architecture**, which describes how content is organized and structured to facilitate understanding. The "Details" section clearly displayed specifications about the garment's condition, with a condition rating of "Excellent." Precise measurements appeared in a collapsible section that expanded with a single click. The provenance information listed the item as "Authenticated by TheRealReal experts." These elements provided the necessary confidence to proceed with such a significant purchase.
+The product page presented a clean **information architecture**, which describes how content is organized and structured to facilitate understanding. The "Details" section clearly displayed specifications about the garment's condition, with a condition rating of "Excellent." Precise measurements also appeared in the collapsible section that expanded with a single click. The provenance information listed the item as authenticated by TheRealReal experts. These elements provided the necessary confidence to proceed with such a significant purchase.
 
 ## Act II: The Consignment
 
