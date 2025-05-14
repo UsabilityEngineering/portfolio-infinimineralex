@@ -15,7 +15,11 @@ Unfortunately, matters quickly grew complicated. I discovered that even sophisti
 ![The Goods on Offer](https://github.com/user-attachments/assets/9f9a177b-4565-4df6-940d-2da4999f2a3c)
 
 
-I had purchased from TheRealReal before and noted their commendable strengths. Their search functionality provided robust filtering options. I used the category dropdown menu to select "Men's" and the subcategory "Outerwear." The left sidebar filters allowed me to specifically select "Brunello Cucinelli" from the designer list and "L" from the size options.
+I had purchased from TheRealReal before and noted their commendable strengths. Their search functionality provided robust filtering options. I used the category dropdown menu to select "Men's" and the subcategory "Outerwear." The topbar filters allowed me to specifically select "Brunello Cucinelli" from the designer list and "L" from the size options.
+
+![image](https://github.com/user-attachments/assets/d320c07d-5618-4086-b46e-ec4a60d92da0)
+
+
 The product photography was exemplary. The main product carousel displayed the peacoat from multiple angles. I particularly appreciated the zoom feature that revealed detailed shots highlighting the craftsmanship of the cashmere and stitching.
 
 ![Details Section](https://github.com/user-attachments/assets/ae587ec1-53c5-45c3-88e1-ea032f6d5321)
